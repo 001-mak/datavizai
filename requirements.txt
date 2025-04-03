@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain-community
+langchainhub
+langgraph
+langchain_google_genai
+nest-asyncio
+pydantic
+sqlite3
